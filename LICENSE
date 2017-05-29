@@ -1,3 +1,25 @@
+ License, Use and Redistribution
+ https://sites.google.com/site/hmig3escada/Home/clpduino
+
+CLPDUINO development environment itself is licensed with "GNU GENERAL PUBLIC LICENSE V2 or later". PLC Runtime code (IEC-61131-3 Standard Function Block Library and platform specific C code templates) is licensed "GNU LESSER GENERAL PUBLIC LICENSE V2 or later"
+
+This distribution comes with several packages included, whose licensing should be compatible :
+
+- wxWidgets, wxPython is currently licensed under the "wxWindows Licence". Refer to http://www.wxwidgets.org/about/licence3.txt
+
+- mingw toolchain itself is licensed under the "GNU GENERAL PUBLIC LICENSE V2" whereas libraries are licensed under the "GNU LESSER GENERAL PUBLIC LICENSE V2",
+
+- python and many other additional packages come "As is" with GPL compatible license  
+
+You may use CLPDUINO on any number of systems. There is no restriction to your use. You may use CLPDUINO commercially as well as privately.  You the user assume the responsibility for the use of the files, binary or text, and there is no guarantee or warranty, expressed or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose.  You assume all responsibility and agree to hold no entity, copyright holder or distributors liable for any loss of data or inaccurate representations of data as a result of using CLPDUINO.
+
+You may redistribute CLPDUINO in part or in whole as long as you follow the guidelines of redistribution of each license contained within. To be certain that you are being legally compliant, always distribute the source. Distribution of source is your responsibility should you decide to redistribute CLPDUINO.
+
+Binaries created from the use of CLPDUINO and of MinGW are not bound by any license found within this package unless you use a library that is itself covered by the GPL license. If you wish to create proprietary software then don't use any other GPL licensed library. A library licensed with LGPL (Lesser GPL) may be used by proprietary software without GPL infection as special permission within the LGPL has given you this right.
+
+##################################################################
+##################################################################
+       
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
